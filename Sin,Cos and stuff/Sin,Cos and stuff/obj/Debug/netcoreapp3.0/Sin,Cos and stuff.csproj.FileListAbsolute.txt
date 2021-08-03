@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\bin\Debug\netcoreapp3.0\Sin,Cos and stuff.exe
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\bin\Debug\netcoreapp3.0\Sin,Cos and stuff.deps.json
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\bin\Debug\netcoreapp3.0\Sin,Cos and stuff.runtimeconfig.json
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\bin\Debug\netcoreapp3.0\Sin,Cos and stuff.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\bin\Debug\netcoreapp3.0\Sin,Cos and stuff.dll
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\bin\Debug\netcoreapp3.0\Sin,Cos and stuff.pdb
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\obj\Debug\netcoreapp3.0\Sin,Cos and stuff.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\obj\Debug\netcoreapp3.0\Sin,Cos and stuff.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\obj\Debug\netcoreapp3.0\Sin,Cos and stuff.AssemblyInfo.cs
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\obj\Debug\netcoreapp3.0\Sin,Cos and stuff.dll
+C:\Users\kolev\source\repos\Sin,Cos and stuff\Sin,Cos and stuff\obj\Debug\netcoreapp3.0\Sin,Cos and stuff.pdb
